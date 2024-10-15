@@ -26,3 +26,5 @@ Project Goals:
 Distinguish between Ash, Oak, and Beech blocks by analyzing the frequencies produced when struck.
 Determine the relationship between the block volume and its peak frequency.
 Predict frequencies for any given volume of block using graphical analysis.
+
+Coded Using Spyder
